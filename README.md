@@ -8,6 +8,18 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     2 repos             █████████████████████████   100.0%
+
+```
+
+
+
+ Last Updated on 27/10/2021
 <!--END_SECTION:waka-->
 
 ### Contact Me
