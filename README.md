@@ -11,39 +11,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
 </p>
 
-### 📊 Weekly development breakdown
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     2 repos             █████████████████████████   100.0%
-
-```
-
-
-
- Last Updated on 28/10/2021
-<!--END_SECTION:waka-->
-
 ### Contact Me
 <a href="https://twitter.com/arif_sptrra">
   <img align="left" alt="Arif Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
