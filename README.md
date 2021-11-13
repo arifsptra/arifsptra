@@ -1,4 +1,4 @@
-## Hi Friend, I Am Arif Saputra <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hi, I Am Arif Saputra <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ### I'm a Beginner Developer!
 🏫 I'm currently studying at Dian Nuswantoro University Semarang<br>
