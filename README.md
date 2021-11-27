@@ -18,8 +18,8 @@
 <a href="https://www.linkedin.com/in/arif-saputra-71754b220">
   <img align="left" alt="Arif Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/arifsptra">
-  <img align="left" alt="Arif Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://medium.com/@arif_sptrra">
+  <img align="left" alt="Arif Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
 </a>
 <a href="https://www.instagram.com/arif_sptrra">
   <img align="left" alt="Ajay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
