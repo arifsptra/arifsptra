@@ -1,7 +1,6 @@
-## Hi, I Am Arif Saputra <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I Am Arif Saputra
 
 ### I'm a Web Developer!
-🏫 I'm currently studying at Dian Nuswantoro University Semarang<br>
 🙋 I’m looking to collaborate with other developer<br>
 ⚡ Fun fact: I love football, finding bugs and discovering something new
 
