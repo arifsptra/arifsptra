@@ -6,7 +6,6 @@
 
 ### My Stats
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=arifsptra&show_icons=true&hide_border=true&custom_title=Arif Saputra's" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifsptra&layout=compact&hide_border=true hight"/>
 </p>
 
