@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I Am Arif Saputra
+## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">, I Am Arif Saputra
 
 ### I'm a Web Developer!
 🙋 I’m looking to collaborate with other developer<br>
