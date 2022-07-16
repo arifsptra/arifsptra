@@ -35,5 +35,12 @@
 </details>
 <details>
   <summary>☎️ Contact Me</summary>
-
+  <h3 align="center">You Can Reach Me By</h3>
+  <br>
+  <p align="center">
+    <a href="https://instagram.com/arif.sptrra"><img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=0088b9" /></a>
+    <a href="https://twitter.com/arifsptrra"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=0088b9" /></a>
+    <a href="https://www.linkedin.com/in/arifsptrra" target="_blank"><img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0088b9" /></a>
+    <a href="https://medium.com/@arifsptra" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=0088b9" /></a>
+  </p>
 </details>
