@@ -17,7 +17,7 @@
       <br/>
         <p align="center">
           <a href="https://github.com/arifsptra/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifsptra&layout=compact&hide_border=true hight"/></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifsptra&layout=compact&hide_border=true"/></a>
         </p>
         <p align="center">
           <a href="https://github.com/arifsptra/">
