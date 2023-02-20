@@ -1,10 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">, I Am Arif Saputra</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;System+Administrator;Network+Engineer&center=true&width=500&height=50&color=0088b9"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;IT+Enthusiast;College+Student&center=true&width=500&height=50&color=0088b9"></a>
 </p>
 
 <h2>About Me</h2>
-<p>I am a full stack developer, system administrator and network engineer based in Pati, Indonesia. I have a high enthusiasm for learning, and have an interest and like everything related to the field of full stack developer, system administrator and network engineer.</p>
+<p>I am a full stack developer based in Pati, Indonesia. I have a high enthusiasm for learning, and have an interest and like everything related to Software Development, Web development, DevOps, Networking, and the Internet of Things</p>
 <p>I am currently completing my undergraduate education in Informatics Engineering at Dian Nusantoro University, Semarang. Now I focus on improving myself by learning new things every day so that I am now better than yesterday.</p>
 <p>See my personal website <a href="https://arifsaputra.my.id">arifsaputra.my.id</a> to know me more.</p>
 <p>👀 Now I’m looking to collaborate with other developer.</p>
