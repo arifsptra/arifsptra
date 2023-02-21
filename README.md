@@ -4,7 +4,7 @@
 </p>
 
 <h2>About Me</h2>
-<p>I am a full stack developer based in Pati, Indonesia. I have a high enthusiasm for learning, and have an interest and like everything related to Software Development, Web development, DevOps, Networking, and the Internet of Things</p>
+<p>I am a full stack developer based in Pati, Indonesia. I have a high enthusiasm for learning, and have an interest and like everything related to Software Development, Web development, System Administration, System Administration, DevOps, Networking, and the Internet of Things.</p>
 <p>I am currently completing my undergraduate education in Informatics Engineering at Dian Nusantoro University, Semarang. Now I focus on improving myself by learning new things every day so that I am now better than yesterday.</p>
 <p>See my personal website <a href="https://arifsaputra.my.id">arifsaputra.my.id</a> to know me more.</p>
 <p>👀 Now I’m looking to collaborate with other developer.</p>
@@ -17,7 +17,7 @@
       <br/>
         <p align="center">
           <a href="https://github.com/arifsptra/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=arifsptra&show_icons=true&hide_border=true&hide_title=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=arifsptra&show_icons=true&icon_color=0088b9&hide_border=true&hide_title=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=arifsptra&layout=compact&hide_border=true" />
           </a>
        </p>
