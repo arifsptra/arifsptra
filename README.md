@@ -6,6 +6,7 @@
 <h2>About Me</h2>
 <p>I am a full stack developer based in Pati, Indonesia. I have a high enthusiasm for learning, and have an interest and like everything related to Software Development, Web development, System Administration, DevOps, Networking, and the Internet of Things.</p>
 <p>I am currently completing my undergraduate education in Informatics Engineering at Dian Nusantoro University, Semarang. Now I focus on improving myself by learning new things every day so that I am now better than yesterday.</p>
+<p>Visit my second github <a href="https://github.com/arifsptrra">github.com/arifsptrra</a> which I used to work on VENTURI Inovasi Digital.</p>
 <p>See my personal website <a href="https://arifsaputra.my.id">arifsaputra.my.id</a> to know me more.</p>
 <p>👀 Now I’m looking to collaborate with other developer.</p>
 <p>⚡ My Fun fact: I love football, finding bugs and discovering something new.</p>
