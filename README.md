@@ -32,7 +32,7 @@
 <details>
   <summary>📈 Activity Graph</summary>
   <h3 align="center">My Current Activity</h3>
-  <a href="https://github.com/arifsptra/github-readme-activity-graph"><img alt="Arif's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=arifsptra&bg_color=fff&color=000&line=0088b9&point=555&hide_border=true&hide_title=true" /></a>
+  <a href="https://github.com/arifsptra/github-readme-activity-graph"><img alt="Arif's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=arifsptra&bg_color=fff&color=000&line=0088b9&point=555&hide_border=true&hide_title=true" /></a>
 </details>
 <details>
   <summary>☎️ Contact Me</summary>
