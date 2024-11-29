@@ -4,8 +4,10 @@
 </p>
 
 <h2>About Me</h2>
-<p>I am a full stack developer based in Pati, Indonesia. I have a high enthusiasm for learning, and have an interest and like everything related to Software Development, Web development, System Administration, DevOps, Networking, and the Internet of Things.</p>
-<p>I am currently completing my undergraduate education in Informatics Engineering at Dian Nusantoro University, Semarang. Now I focus on improving myself by learning new things every day so that I am now better than yesterday.</p>
+<p>I am a seasoned Full-Stack Software Engineer with over 5 years of experience crafting high-performance web applications.</p>
+<p>I specialize in bridging design and functionality, creating intuitive UI/UX interfaces, and integrating robust backend systems. My expertise spans the entire development lifecycle, from building scalable front-end architectures to managing databases for optimal performance.</p>
+<p>As a leader, I have successfully guided cross-functional teams to deliver end-to-end, user-centric solutions that align with business goals. I am passionate about solving complex technical challenges, streamlining workflows, and transforming innovative ideas into impactful digital products.</p>
+<p>Additionally, I founded a commercial organization called AllWes where I serve as the President Director. At <a href="https://allwes.id">Allwes</a>, my mission is to empower micro, small, and medium-sized enterprises (MSMEs) to achieve sustainable growth through tailored technological solutions, driving meaningful change in the business landscape.</p>
 <p>See my personal website <a href="https://arif.allwes.id">arif.allwes.id</a> to know me more.</p>
 <p>👀 Now I’m looking to collaborate with other developer.</p>
 <p>⚡ My Fun fact: I love football, finding bugs and discovering something new.</p>
