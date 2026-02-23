@@ -11,7 +11,7 @@
 - 💻 Expert in building scalable front-end systems and optimizing database performance.
 - 🛠️ Technical focus: **React, Next.js, Node.js, Flutter, and Go**.
 - 🔍 Passionate about solving complex technical challenges and streamlining development workflows.
-- 🌐 See my personal website [**Arif Saputra**](https://arifsaputra.my.id) to know me more.
+- 🌐 See my personal website [**Arif Saputra**](https://arifsaputra.dev) to know me more.
 
 ### ☎️ Connect with Me
 
